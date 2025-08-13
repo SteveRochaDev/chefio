@@ -1,4 +1,5 @@
-# chefio
+<!-- filepath: [README.md](http://_vscodecontentref_/0) -->
+# Chefio
 
 Chefio is a simple app that helps you find recipes based on the ingredients you already have at home.  
 No more stress about what to cook, just enter what’s in your kitchen and get inspired to create tasty meals easily.
@@ -34,6 +35,7 @@ npm install
 
 # Run the development server
 npm run dev
+```
 
 ## Roadmap
 
